@@ -17,6 +17,8 @@ body{
     background-color: darkslateblue;
     font-size: 4rem !important;
 
+    z-index: 100;
+
 }
 
 @media(min-width:600px) {
